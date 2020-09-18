@@ -1,0 +1,6 @@
+2020-09-18 15:27:00 ERROR WriteAndReport:64 - telefon veya mail adreslerinden biri ayni olmalidir Ahmet Duman
+2020-09-18 15:27:00 ERROR WriteAndReport:64 - telefon veya mail adreslerinden biri ayni olmalidir Tuncay Demir
+2020-09-18 15:27:00 ERROR WriteAndReport:64 - telefon veya mail adreslerinden biri ayni olmalidir Zeynep Altınsoy
+2020-09-18 15:27:00 ERROR WriteAndReport:64 - telefon veya mail adreslerinden biri ayni olmalidir Mesut Çelik
+2020-09-18 15:27:00 ERROR WriteAndReport:42 - telefon veya mail adreslerinden biri dolu olmalidir, excel1 de olmayan veri Hasibe Duman
+2020-09-18 15:27:00 ERROR WriteAndReport:64 - telefon veya mail adreslerinden biri ayni olmalidir Sezai Çelik
